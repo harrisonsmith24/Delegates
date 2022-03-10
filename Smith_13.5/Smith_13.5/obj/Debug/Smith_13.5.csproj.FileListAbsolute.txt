@@ -1,0 +1,10 @@
+D:\C# program files\Smith_13.5\Smith_13.5\bin\Debug\Smith_13.5.exe.config
+D:\C# program files\Smith_13.5\Smith_13.5\bin\Debug\Smith_13.5.exe
+D:\C# program files\Smith_13.5\Smith_13.5\bin\Debug\Smith_13.5.pdb
+D:\C# program files\Smith_13.5\Smith_13.5\obj\Debug\Smith_13.5.csproj.AssemblyReference.cache
+D:\C# program files\Smith_13.5\Smith_13.5\obj\Debug\Smith_13._5.Form1.resources
+D:\C# program files\Smith_13.5\Smith_13.5\obj\Debug\Smith_13._5.Properties.Resources.resources
+D:\C# program files\Smith_13.5\Smith_13.5\obj\Debug\Smith_13.5.csproj.GenerateResource.cache
+D:\C# program files\Smith_13.5\Smith_13.5\obj\Debug\Smith_13.5.csproj.CoreCompileInputs.cache
+D:\C# program files\Smith_13.5\Smith_13.5\obj\Debug\Smith_13.5.exe
+D:\C# program files\Smith_13.5\Smith_13.5\obj\Debug\Smith_13.5.pdb
